@@ -1,0 +1,21 @@
+# .NET Core/ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.config
+*.csproj.user
+
+# ASP.NET Scaffolding
+.scaffolding
+CodeTemplates
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# others
+APIControlerDoc.md
